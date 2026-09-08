@@ -1,0 +1,8 @@
+﻿{
+  "name": "awesome-mechanical-engineering-open-source",
+  "version": "1.0.0",
+  "description": "A curated list of awesome open-source software, solvers, libraries, and datasets for Mechanical, Aerospace, and Manufacturing Engineers",
+  "keywords": ["awesome", "awesome-list", "mechanical-engineering", "fea", "cfd", "cad", "robotics", "finite-element-analysis", "openfoam"],
+  "author": "Rushikesh Garad",
+  "license": "CC0-1.0"
+}
